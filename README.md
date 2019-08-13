@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+https://lit-hollows-92689.herokuapp.com/users/sign_up#
